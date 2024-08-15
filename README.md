@@ -65,3 +65,6 @@ This Dockerfile creates a custom Ubuntu 20.04 image with the necessary configura
 - Familiarize yourself with the best practices and potential pitfalls of Docker-in-Docker setups.
 
 Feel free to customize the Dockerfile and the usage instructions to fit your specific needs.
+
+## Available .tar Image
+The Docker image exported as a .tar file is available in this repository.
